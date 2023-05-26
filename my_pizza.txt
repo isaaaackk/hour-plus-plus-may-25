@@ -1,2 +1,4 @@
 Pepperoni
 Cheese
+Mushroom
+Olives
